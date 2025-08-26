@@ -1,0 +1,17 @@
+-- local sniprun = require('sniprun')
+--
+-- vim.keymap.set('v', '<leader>r', ":'<'>SnipRun<CR><ESC>", {})
+-- vim.keymap.set('n', '<leader>r', sniprun.run, {})
+--
+-- require('sniprun').setup({
+--   display = {
+--     "TerminalWithCode",
+--   },
+--   live_display = { "TerminalWithCode" },
+--   show_no_output = {
+--     "TerminalWithCode",
+--   },
+--   live_mode_toggle = 'off',
+--   inline_messages = false,
+--   borders = 'single',
+-- })
